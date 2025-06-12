@@ -4,7 +4,7 @@
 
 Locked In is a powerful "new tab" replacement for your Chrome browser, designed to help you minimize distractions and maximize productivity. Whether you're a student, a professional, or anyone looking to improve your focus, Locked In provides the tools you need to manage your time effectively and achieve your goals.
 
-[Screenshot showing the main dashboard view]
+![Screenshot of the main dashboard](screenshots/1.png)
 
 ## Features
 
@@ -14,7 +14,8 @@ Locked In is a powerful "new tab" replacement for your Chrome browser, designed 
 *   **Activity Tracker:** Visualize your productivity with a GitHub-style contribution graph that tracks your completed Pomodoro sessions.
 *   **Google Calendar Widget:** See your upcoming events for the day at a glance.
 
-[Screenshot of the Pomodoro timer in action]
+![Screenshot of the Pomodoro timer](screenshots/2.png)
+![Screenshot of the website blocker page](screenshots/4.png)
 
 ## Google Calendar Integration
 
@@ -24,7 +25,7 @@ To help you stay on top of your schedule, Locked In can display your upcoming ev
 *   **How it Works:** The extension uses this permission to read event details (like time and title) from your calendars for the current day.
 *   **Your Privacy is Paramount:** Your calendar information is **never** stored, copied, or transmitted to any server. All data processing happens locally on your computer. The information is only used to display your schedule to you.
 
-[Screenshot of the Google Calendar widget]
+![Screenshot of the Google Calendar widget](screenshots/3.png)
 
 ## How to Install
 
