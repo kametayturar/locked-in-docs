@@ -29,7 +29,7 @@ To help you stay on top of your schedule, Locked In can display your upcoming ev
 
 ## How to Install
 
-1.  Visit the [Locked In - Productivity Dashboard page on the Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id).
+1.  Visit the [Locked In - Productivity Dashboard page on the Chrome Web Store](https://chromewebstore.google.com/detail/locked-in-productivity-da/bojgnnnbpkpbndfnabaolonacgnjidkm).
 2.  Click "Add to Chrome."
 3.  The extension will replace your new tab page.
 

@@ -51,16 +51,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Update install button with actual Chrome Web Store link when available
-document.addEventListener('DOMContentLoaded', () => {
-    const installButtons = document.querySelectorAll('a[href="#"]');
-    installButtons.forEach(button => {
-        if (button.textContent.includes('Add to Chrome')) {
-            button.addEventListener('click', (e) => {
-                e.preventDefault();
-                // When the extension is published, replace this with the actual Chrome Web Store URL
-                alert('Extension coming soon to the Chrome Web Store!');
-            });
-        }
-    });
-}); 
+// Chrome Web Store links are now live - no need for placeholder alerts 
